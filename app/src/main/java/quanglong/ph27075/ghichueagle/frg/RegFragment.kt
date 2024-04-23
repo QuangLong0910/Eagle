@@ -12,8 +12,6 @@ import quanglong.ph27075.ghichueagle.R
 class RegFragment : Fragment() {
 
 
-
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
